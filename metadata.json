@@ -1,0 +1,5 @@
+{
+  "name": "Recruitment Sandbox",
+  "description": "An application that uses Gemini to generate a polished job description and a targeted interview guide from raw notes about a desired role. It features a 'Thinking Mode' to handle complex queries with a more advanced model.",
+  "requestFramePermissions": []
+}
